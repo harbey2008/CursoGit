@@ -1,0 +1,15 @@
+Para iniciar un Proyecto en GIT 
+
+	git init  (Area de ensayo o stagin area) y (Repository Local)
+
+	git add nombre_archivo.html
+	
+	git commit -m "mensaje para describir cambios"
+	
+	git status -s 
+	
+	git log --oneline (Lista con la foto de los archivos) ejemplo : 2d19567
+	
+	git reset --hard (nombre de la foto del archivo: ejemplo : 2d19567)
+	
+	
