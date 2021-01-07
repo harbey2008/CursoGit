@@ -2,7 +2,8 @@ Para iniciar un Proyecto en GIT
 
 	git init  (Area de ensayo o stagin area) y (Repository Local)
 
-	git add nombre_archivo.html
+	git add nombre_archivo.html  Adicionar 1 solo archivo
+	git add . adicionar todos los archivos al stagin area
 	
 	git commit -m "mensaje para describir cambios"
 	
