@@ -4,8 +4,9 @@ Para iniciar un Proyecto en GIT
 
 	git add nombre_archivo.html  Adicionar 1 solo archivo
 	git add . adicionar todos los archivos al stagin area
-	
 	git commit -m "mensaje para describir cambios"
+	
+	git commit -am "Hace add y comit al mismo tiempo"
 	
 	git status -s 
 	
