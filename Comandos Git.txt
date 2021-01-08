@@ -24,6 +24,7 @@ Para iniciar un Proyecto en GIT
 	Subir versiones del proyecto al repositorio remoto
 	git tag 07-01-2020_V1 -m "Version 1 del proyecto"
 	git push --tags
+	git push origin master
 	
 	Clonar proyecto desde el repositorio remoto
 	git clone https://github.com/harbey2008/CursoGit.git
