@@ -13,5 +13,24 @@ Para iniciar un Proyecto en GIT
 	git log --oneline (Lista con la foto de los archivos) ejemplo : 2d19567
 	
 	git reset --hard (nombre de la foto del archivo: ejemplo : 2d19567)
+
+
+	git remote add origin https://github.com/harbey2008/CursoGit.git (Subir el Proyecto al repositorio creado en GIT Hub)
 	
+	git push (Subir los commits al repositorio)
+
+	git pull (cargar pequeños cambios realziados desde GITHub al repositorio local)
 	
+	Subir versiones del proyecto al repositorio remoto
+	git tag 07-01-2020_V1 -m "Version 1 del proyecto"
+	git push --tags
+	
+	Clonar proyecto desde el repositorio remoto
+	git clone https://github.com/harbey2008/CursoGit.git
+	
+	Ramas o Branch
+	
+	git 
+	
+
+
