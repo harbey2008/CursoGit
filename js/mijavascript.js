@@ -1,1 +1,4 @@
-ARCHIVO JAVASCRIPT
+
+function saludo(){
+	alert("Aprendiendo GIT");
+}

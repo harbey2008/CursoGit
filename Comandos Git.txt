@@ -31,7 +31,14 @@ Para iniciar un Proyecto en GIT
 	
 	Ramas o Branch
 	
-	git 
+	git branch nombre_rama (ejemplo: desarrollo)
+	git log --oneline
+	git branch (Lista las Ramas que tengo Creadas Actualmente) la que tiene el * es la rama en la que me encuentro trabajando
+	
+	
+	git checkout desarrollo (cambio de rama de trabajo)
+	git branch (* muestra en la Rama en la cual me encuentro trabjando actualmente)
+	
 	
 
 
